@@ -1,0 +1,3 @@
+erdi tuna : 70,80,90
+deniz erhan : 49,77,90
+mustafa tunc : 50,60,45
