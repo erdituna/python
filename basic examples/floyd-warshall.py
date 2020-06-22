@@ -28,7 +28,7 @@ def floyd_warshall(n, edge):
 
 
 if __name__ == '__main__':
-    floyd_warshall(4, [[1, 3, -2], [2, 1, 4], [2, 3, 3], [3, 4, 2], [4, 2, -1]])
+       floyd_warshall(7, [[2, -4, -2], [3, 5, 4], [1, 3, 3,4], [4, 2, 7], [4, 2, -1]])
 from math import inf
 from itertools import product
 
@@ -59,4 +59,4 @@ def floyd_warshall(n, edge):
 
 
 if __name__ == '__main__':
-    floyd_warshall(4, [[1, 3, -2], [2, 1, 4], [2, 3, 3], [3, 4, 2], [4, 2, -1]])
+    floyd_warshall(7, [[2, -4, -2], [3, 5, 4], [1, 3, 3,4], [4, 2, 7], [4, 2, -1]])
